@@ -499,7 +499,7 @@
         display: flex;
         align-items: center;
         font-size: 7.5px; 
-        border-bottom: 1px solid #5EA2A3;
+        border-bottom: 1px solid blue;
         padding-bottom: 15px;
         margin-bottom: 15px;
     }
